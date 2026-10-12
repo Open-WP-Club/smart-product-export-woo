@@ -114,6 +114,22 @@ SHIRT-002 | Red Polo Shirt | $34.99 | 23
 - Product query results: 5-minute cache
 - Cache keys: Automatically generated based on filter criteria
 
+<!-- OPENWPCLUB_SPONSORS_START -->
+## Open-source supporters
+
+These companies help keep Open WP Club plugins free and maintained.
+
+[![Open WP Club supporters](https://openwpclub.com/sponsorship/supporters.png)](https://openwpclub.com/sponsors/)
+
+## Sponsored placements
+
+Clearly labelled promotional campaigns, separate from our supporters.
+
+[![Open WP Club sponsored placements](https://openwpclub.com/sponsorship/repos/smart-product-export-woo/campaigns.png)](https://openwpclub.com/advertise/)
+
+[Support our work](https://openwpclub.com/sponsors/) · [Discuss a campaign](https://openwpclub.com/advertise/)
+<!-- OPENWPCLUB_SPONSORS_END -->
+
 ## Support
 
 For support, bug reports, or feature requests:
